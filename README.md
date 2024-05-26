@@ -1,4 +1,4 @@
-# uki
+# Kado
 -Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
 
@@ -9,6 +9,8 @@ Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 # Author
 - Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Stya W Putra (@styawp)
+- Index Code : Septian Dwi Cahyo (@Septiandwica)
+- Edited Code : Stya W Putra (@styawp)
 
 Thanks to codepan and mdusmanansari
+# foruki
